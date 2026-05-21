@@ -19,10 +19,17 @@ Windows 11
 # List of Prequisities
 
 Microsoft Azure virtual machine
+
 osTicket v1.15.8
+
 Installing Active Directory in one of the virtual instances
+
 Heidi SQL
+
 MySQL
+
 PHP Manager
+
 VC Redist
+
 Rewrite Module
