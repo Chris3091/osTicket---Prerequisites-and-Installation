@@ -8,5 +8,7 @@ In this lab, I will install osTicket which is an open-source software used for h
 Environments and Technologies Used
 
 Microsoft Azure (Virtual Machines/Compute)
+
 Remote Desktop
+
 Internet Information Services (IIS)
