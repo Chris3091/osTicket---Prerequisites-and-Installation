@@ -206,7 +206,6 @@ The click the upper left link to login as a admin or in your profile.
 For more info proceed to the next page. 
 
 
-https://github.com/Chris3091/osTicket---Prerequisites-and-Installation/blob/33d37f57f798fbb8deff16a8793d6559f440e9b9/README.md%202
 
 
 
